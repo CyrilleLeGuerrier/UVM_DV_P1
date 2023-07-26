@@ -1,7 +1,7 @@
 module uvm_tb_top ();
   
-  import uvm_pkg::*; 
-  `include "uvm_macros.svh"
+  import uvm_pkg::*; // Imports the UVM package (uvm_pkg)
+  `include "uvm_macros.svh" // Includes the UVM macros (uvm_macros)
 
   
 	initial

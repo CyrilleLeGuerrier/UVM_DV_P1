@@ -1,3 +1,5 @@
+// Exit Simulation with UVM_WARNING
+
 `include "uvm_macros.svh"
 import uvm_pkg::*;
  

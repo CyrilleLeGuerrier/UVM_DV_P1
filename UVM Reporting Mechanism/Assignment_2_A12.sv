@@ -1,3 +1,5 @@
+// Write a code to change the verbosity of the entire verification environment to UVM_DEBUG. To demonstrate successful configuration, print the value of the verbosity level on the console.
+
 module uvm_tb_top;
 
 
